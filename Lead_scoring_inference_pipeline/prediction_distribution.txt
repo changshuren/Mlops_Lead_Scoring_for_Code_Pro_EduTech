@@ -1,0 +1,6 @@
+Prediction ratio for the date Sun Mar 15 22:00:48 2024 
+ 1   59.06% 
+ 0   40.94%
+Prediction ratio for the date Sun Mar 15 22:02:18 2024 
+ 1   59.06% 
+ 0   40.94%
